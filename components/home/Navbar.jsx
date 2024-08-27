@@ -6,7 +6,7 @@ const Navbar = () => {
       {/* image div */}
       <div>
         <img
-          src="https://africaviewfacts.com/media/opinions/img/AlgeriaDesert.jpg"
+          // src="https://africaviewfacts.com/media/opinions/img/AlgeriaDesert.jpg"
           alt=""
           className="w-[200px] h-[90px] object-cover"
         />
