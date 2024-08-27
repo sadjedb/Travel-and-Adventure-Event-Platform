@@ -7,7 +7,7 @@ const cookieParser = require("cookie-parser");
 const bcrypt = require("bcrypt");
 const db = require("./db");
 const app = express();
-
+// random thnigy
 app.use(bodyParser.json());
 app.use(bodyParser.urlencoded({ extended: true }));
 require("./passportConfig")(passport);
